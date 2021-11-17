@@ -6,6 +6,7 @@
   "scripts": {
     "test": "jest"
   },
+  "keywords": [],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/marcusbass323/auto-demo.git"
